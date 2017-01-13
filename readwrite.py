@@ -4,20 +4,20 @@ def read():
   # read a
   line = f.readline()
   split = line.split()
-  a = float(split [2])
+  a = float(split[2])
   print (a)
 
 # read b
   line = f.readline()
   split = line.split()
-  b = float(split [2])
+  b = float(split[2])
   print (b)
 
 
 # read c
   line = f.readline()
   split = line.split()
-  c = float(split [2])
+  c = float(split[2])
   print (c)
 
   # clean up

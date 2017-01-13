@@ -2,6 +2,16 @@
 
 import readwrite
 
-[a, b, c,]= readwrite.read()
+import function
 
-print(a, b, c) 
+[a, b, c] = readwrite.read()
+
+
+
+[x, y] = print(a, b, c) 
+plot.plot(x,y)
+
+
+print(x, y)
+
+
